@@ -20,6 +20,20 @@
       "permanent": true
     }
   ],
+  "rewrites": [
+    {
+      "source": "/api/lead/",
+      "destination": "/api/lead"
+    },
+    {
+      "source": "/api/leads/",
+      "destination": "/api/leads"
+    },
+    {
+      "source": "/api/health/",
+      "destination": "/api/health"
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
@@ -101,6 +115,19 @@
         {
           "key": "X-Robots-Tag",
           "value": "noindex, nofollow"
+        }
+      ]
+    },
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "no-store"
         }
       ]
     }
