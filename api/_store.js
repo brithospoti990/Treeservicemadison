@@ -21,6 +21,8 @@ async function pipe(cmds) {
   return out.map((o) => { if (o && o.error) { throw new Error(o.error); } return o ? o.result : null; });
 }
 
+async function ping() { const [r] = await pipe([["PING"]]); return r === "PONG"; }
+
 function ttl() { const d = parseInt(process.env.LEAD_RETENTION_DAYS || "730", 10); return (d > 0 ? d : 730) * 86400; }
 
 async function saveLead(lead) {
@@ -70,4 +72,4 @@ async function failures(ip, bump) {
   const [n] = await pipe([["GET", key]]); return parseInt(n || "0", 10);
 }
 
-module.exports = { configured, saveLead, listLeads, updateLead, deleteLead, passwordOk, failures, STATUSES };
+module.exports = { configured, ping, saveLead, listLeads, updateLead, deleteLead, passwordOk, failures, STATUSES };
