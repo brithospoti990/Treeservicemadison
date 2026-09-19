@@ -1,0 +1,62 @@
+GUIDE PAGES: SEO FIELDS (each value is one unwrapped line; counts in brackets)
+======================================================================================
+
+/guides/tree-removal-permit-madison-wi/
+--------------------------------------------------------------------------------------
+SEO title (52): Tree Removal Permit in Madison, WI: Do You Need One?
+Meta description (147): Do you need a tree removal permit in Madison, WI? Usually not for yard trees, but oaks, terrace trees and building sites have rules. A plain guide.
+Canonical (69): https://treeservicemadison.net/guides/tree-removal-permit-madison-wi/
+Slug: /guides/tree-removal-permit-madison-wi/
+H1 (49): Do You Need a Tree Removal Permit in Madison, WI?
+OG title (49): Do You Need a Tree Removal Permit in Madison, WI?
+OG description (92): Yard trees, oaks, terrace trees and building sites: which Madison rule applies to your tree.
+OG image: https://treeservicemadison.net/assets/img/guides/tree-removal-permit-madison-wi-og.jpg (1200x630)
+Schema: Article, HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/guides/terrace-trees-madison-wi/
+--------------------------------------------------------------------------------------
+SEO title (57): Terrace Trees in Madison, WI: Who Owns and Maintains Them
+Meta description (146): Terrace trees in Madison, WI belong to the City. Who prunes, removes and replants them, what you can and can't do, and who to call when one fails.
+Canonical (63): https://treeservicemadison.net/guides/terrace-trees-madison-wi/
+Slug: /guides/terrace-trees-madison-wi/
+H1 (49): Terrace Trees in Madison, WI: Who Is Responsible?
+OG title (49): Terrace Trees in Madison, WI: Who Is Responsible?
+OG description (92): The tree between your sidewalk and the street is the City's. Who does what, and who to call.
+OG image: https://treeservicemadison.net/assets/img/guides/terrace-trees-madison-wi-og.jpg (1200x630)
+Schema: Article, HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/guides/oak-wilt-oak-work-permit-madison-wi/
+--------------------------------------------------------------------------------------
+SEO title (56): Oak Wilt in Madison, WI: Oak Work Permit & Pruning Dates
+Meta description (146): Oak wilt in Madison, WI: how it spreads, when oaks can be pruned, and how the City's April 1 to October 15 oak work permit works on private trees.
+Canonical (74): https://treeservicemadison.net/guides/oak-wilt-oak-work-permit-madison-wi/
+Slug: /guides/oak-wilt-oak-work-permit-madison-wi/
+H1 (48): Oak Wilt in Madison, WI, and the Oak Work Permit
+OG title (48): Oak Wilt in Madison, WI, and the Oak Work Permit
+OG description (87): How oak wilt spreads, when oaks can be pruned, and how Madison's oak work permit works.
+OG image: https://treeservicemadison.net/assets/img/guides/oak-wilt-oak-work-permit-madison-wi-og.jpg (1200x630)
+Schema: Article, HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/guides/emerald-ash-borer-madison-wi/
+--------------------------------------------------------------------------------------
+SEO title (57): Emerald Ash Borer in Madison, WI: Treat or Remove an Ash?
+Meta description (142): Emerald ash borer in Madison, WI: how to spot it, when an ash can still be treated, when it has to come down, and what happens to terrace ash.
+Canonical (67): https://treeservicemadison.net/guides/emerald-ash-borer-madison-wi/
+Slug: /guides/emerald-ash-borer-madison-wi/
+H1 (50): Emerald Ash Borer in Madison, WI: Treat or Remove?
+OG title (50): Emerald Ash Borer in Madison, WI: Treat or Remove?
+OG description (87): How to spot emerald ash borer, when treatment still works, and why dead ash can't wait.
+OG image: https://treeservicemadison.net/assets/img/guides/emerald-ash-borer-madison-wi-og.jpg (1200x630)
+Schema: Article, HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/guides/
+--------------------------------------------------------------------------------------
+SEO title (58): Tree Guides for Madison, WI: Permits, Oak Wilt, Ash & More
+Meta description (142): Plain-English tree guides for Madison, WI homeowners: removal permits, terrace trees, oak wilt and the oak work permit, and emerald ash borer.
+Canonical (38): https://treeservicemadison.net/guides/
+Slug: /guides/
+H1 (38): Tree Guides for Madison, WI Homeowners
+OG title (42): Madison Tree Guides | Tree Service Madison
+OG description (89): Permits, terrace trees, oak wilt and emerald ash borer, explained for Madison homeowners.
+OG image: https://treeservicemadison.net/assets/img/guides/guides-og.jpg (1200x630)
+Schema: CollectionPage, ItemList (4 guides), HomeAndConstructionBusiness, WebSite, BreadcrumbList, FAQPage (5 questions)

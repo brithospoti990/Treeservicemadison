@@ -1,0 +1,72 @@
+SERVICE PAGES: SEO FIELDS (each value is one unwrapped line; counts in brackets)
+======================================================================================
+
+/tree-removal-madison-wi/
+--------------------------------------------------------------------------------------
+SEO title (57): Tree Removal in Madison, WI: Safe Takedowns on Tight Lots
+Meta description (138): Tree removal in Madison, WI for dead, leaning and storm-damaged trees. Rigged takedowns on tight lots, City rules checked. (608) 571-1326.
+Canonical (55): https://treeservicemadison.net/tree-removal-madison-wi/
+Slug: /tree-removal-madison-wi/
+H1 (27): Tree Removal in Madison, WI
+OG title (50): Tree Removal in Madison, WI | Tree Service Madison
+OG description (108): Dead, leaning and storm-damaged trees taken down safely, with Madison's oak and terrace rules checked first.
+OG image: https://treeservicemadison.net/assets/img/pages/tree-removal-og.jpg (1200x630)
+Photo 1 alt: Worker in a helmet cutting a tree trunk into sections with a chainsaw, with a crane truck behind
+Photo 2 alt: Excavator pulling a tree stump and its roots out of cleared ground
+Schema: Service, HomeAndConstructionBusiness, WebSite, WebPage, ImageObject, BreadcrumbList, FAQPage (7 questions)
+
+/tree-trimming-madison-wi/
+--------------------------------------------------------------------------------------
+SEO title (57): Tree Trimming & Pruning Madison WI: No Topping, No Spikes
+Meta description (142): Tree trimming and pruning in Madison, WI to ANSI A300: deadwood, clearance, storm repair and young trees. Oaks only in season. (608) 571-1326.
+Canonical (56): https://treeservicemadison.net/tree-trimming-madison-wi/
+Slug: /tree-trimming-madison-wi/
+H1 (38): Tree Trimming & Pruning in Madison, WI
+OG title (61): Tree Trimming & Pruning in Madison, WI | Tree Service Madison
+OG description (114): Careful pruning to the ANSI A300 standard: deadwood, clearance, storm repair and young-tree structure. No topping.
+OG image: https://treeservicemadison.net/assets/img/pages/tree-trimming-og.jpg (1200x630)
+Photo 1 alt: Pruning tool making a clean cut through a small tree branch
+Photo 2 alt: Person pruning a young tree with long-handled loppers under a blue sky
+Schema: Service, HomeAndConstructionBusiness, WebSite, WebPage, ImageObject, BreadcrumbList, FAQPage (6 questions)
+
+/stump-grinding-madison-wi/
+--------------------------------------------------------------------------------------
+SEO title (55): Stump Grinding in Madison, WI | Utilities Located First
+Meta description (141): Stump grinding in Madison, WI: ground 6 to 8 inches below grade, Diggers Hotline locate filed for you, chips raked or hauled. (608) 571-1326.
+Canonical (57): https://treeservicemadison.net/stump-grinding-madison-wi/
+Slug: /stump-grinding-madison-wi/
+H1 (29): Stump Grinding in Madison, WI
+OG title (52): Stump Grinding in Madison, WI | Tree Service Madison
+OG description (107): Stumps ground below grade with the utility locate filed for you, and the spot left ready for soil and seed.
+OG image: https://treeservicemadison.net/assets/img/pages/stump-grinding-og.jpg (1200x630)
+Photo 1 alt: Yellow stump grinder grinding a tree stump into wood chips
+Photo 2 alt: Stump grinder wheel finishing a stump ground below the surrounding soil
+Schema: Service, HomeAndConstructionBusiness, WebSite, WebPage, ImageObject, BreadcrumbList, FAQPage (7 questions)
+
+/stump-removal-madison-wi/
+--------------------------------------------------------------------------------------
+SEO title (55): Stump Removal in Madison, WI: Stump and Roots Taken Out
+Meta description (142): Stump removal in Madison, WI: stump and main roots dug out ahead of concrete, footings or replanting. Utilities located first. (608) 571-1326.
+Canonical (56): https://treeservicemadison.net/stump-removal-madison-wi/
+Slug: /stump-removal-madison-wi/
+H1 (28): Stump Removal in Madison, WI
+OG title (51): Stump Removal in Madison, WI | Tree Service Madison
+OG description (118): The whole stump and its main roots taken out, the hole backfilled and compacted, and ground you can build or plant on.
+OG image: https://treeservicemadison.net/assets/img/pages/stump-removal-og.jpg (1200x630)
+Photo 1 alt: Excavator lifting a tree stump with its roots out of the ground
+Photo 2 alt: Stump grinder wheel throwing wood chips beside a house
+Schema: Service, HomeAndConstructionBusiness, WebSite, WebPage, ImageObject, BreadcrumbList, FAQPage (6 questions)
+
+/emergency-tree-service-madison-wi/
+--------------------------------------------------------------------------------------
+SEO title (56): Emergency Tree Service in Madison, WI: Storm Damage Help
+Meta description (135): Emergency tree service in Madison, WI: trees on houses, cars and driveways made safe and documented for insurance. Call (608) 571-1326.
+Canonical (65): https://treeservicemadison.net/emergency-tree-service-madison-wi/
+Slug: /emergency-tree-service-madison-wi/
+H1 (37): Emergency Tree Service in Madison, WI
+OG title (60): Emergency Tree Service in Madison, WI | Tree Service Madison
+OG description (113): Trees on houses, cars and driveways made safe, storm damage documented for your insurer, and the yard cleaned up.
+OG image: https://treeservicemadison.net/assets/img/pages/emergency-tree-service-og.jpg (1200x630)
+Photo 1 alt: Crew in helmets and hi-vis vests clearing a fallen tree from a road beside a work truck
+Photo 2 alt: Worker in protective gear kneeling beside a chainsaw, with cut tree sections and a crane truck behind
+Schema: Service, HomeAndConstructionBusiness, WebSite, WebPage, ImageObject, BreadcrumbList, FAQPage (6 questions)

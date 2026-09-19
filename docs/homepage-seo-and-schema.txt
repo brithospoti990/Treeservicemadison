@@ -1,0 +1,398 @@
+HOMEPAGE SEO TAGS + SCHEMA (copied from the <head> of index.html; already live in the page)
+============================================================================================
+
+<title>Tree Service Madison WI: Removal, Trimming, Stump Grinding</title>
+<meta name="description" content="Tree service in Madison, WI: tree removal, trimming, stump grinding and emergency storm work in Dane County. Free estimates. (608) 571-1326.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="https://treeservicemadison.net/">
+<meta name="theme-color" content="#12291D">
+<meta name="format-detection" content="telephone=no">
+<meta name="geo.region" content="US-WI">
+<meta name="geo.placename" content="Madison">
+<meta name="geo.position" content="43.0342;-89.4470">
+<meta name="ICBM" content="43.0342, -89.4470">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Tree Service Madison">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Tree Service in Madison, WI | Tree Service Madison">
+<meta property="og:description" content="Tree removal, trimming, stump grinding and storm work from a local crew on the Beltline. Free written estimates.">
+<meta property="og:url" content="https://treeservicemadison.net/">
+<meta property="og:image" content="https://treeservicemadison.net/assets/img/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Tree worker in a bucket truck cutting a limb with a chainsaw. Tree Service Madison.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tree Service in Madison, WI | Tree Service Madison">
+<meta name="twitter:description" content="Tree removal, trimming, stump grinding and storm work from a local crew on the Beltline. Free written estimates.">
+<meta name="twitter:image" content="https://treeservicemadison.net/assets/img/og-image.jpg">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="preload" href="/assets/fonts/besley-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/libre-franklin-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/site.css?v=20260918">
+<script>document.documentElement.className+=" js";</script>
+<link rel="preload" as="image" type="image/webp" imagesrcset="/assets/img/hero/tree-service-madison-560.webp 560w, /assets/img/hero/tree-service-madison-800.webp 800w, /assets/img/hero/tree-service-madison-1200.webp 1200w" imagesizes="(max-width: 999px) 92vw, 528px" fetchpriority="high">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://treeservicemadison.net/#business",
+      "name": "Tree Service Madison",
+      "description": "Local tree service in Madison, Wisconsin: tree removal, tree trimming and pruning, stump grinding, stump removal and emergency tree service across Dane County.",
+      "url": "https://treeservicemadison.net/",
+      "telephone": "+16085711326",
+      "image": [
+        {
+          "@id": "https://treeservicemadison.net/#primaryimage"
+        },
+        "https://treeservicemadison.net/assets/img/og-image.jpg"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+16085711326",
+        "contactType": "customer service",
+        "areaServed": "US",
+        "availableLanguage": "English"
+      },
+      "logo": "https://treeservicemadison.net/icon-512.png",
+      "additionalType": "https://en.wikipedia.org/wiki/Arborist",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4269 W Beltline Hwy, 1st Floor",
+        "addressLocality": "Madison",
+        "addressRegion": "WI",
+        "postalCode": "53711",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.0342,
+        "longitude": -89.447
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "07:00",
+          "closes": "18:00"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Madison, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Fitchburg, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Verona, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Middleton, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Monona, WI"
+        },
+        {
+          "@type": "City",
+          "name": "McFarland, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Sun Prairie, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Waunakee, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Oregon, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Cottage Grove, WI"
+        },
+        {
+          "@type": "City",
+          "name": "DeForest, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Windsor, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Stoughton, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Mount Horeb, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Cross Plains, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Shorewood Hills, WI"
+        },
+        {
+          "@type": "City",
+          "name": "Maple Bluff, WI"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Dane County, WI"
+        }
+      ],
+      "founder": {
+        "@id": "https://treeservicemadison.net/#quincy-carroll"
+      },
+      "knowsAbout": [
+        "Tree removal",
+        "Tree pruning",
+        "Stump grinding",
+        "Storm damage cleanup",
+        "Oak wilt",
+        "Emerald ash borer",
+        "City of Madison oak work permit",
+        "Terrace trees"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tree services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tree Removal",
+              "serviceType": "Tree Removal",
+              "description": "Removal of dead, storm-damaged, leaning or badly placed trees, including rigged takedowns on tight lots.",
+              "url": "https://treeservicemadison.net/tree-removal-madison-wi/",
+              "image": "https://treeservicemadison.net/assets/img/services/tree-removal.jpg",
+              "areaServed": {
+                "@type": "City",
+                "name": "Madison, WI"
+              },
+              "provider": {
+                "@id": "https://treeservicemadison.net/#business"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tree Trimming and Pruning",
+              "serviceType": "Tree Trimming and Pruning",
+              "description": "Pruning to the ANSI A300 standard for clearance, deadwood, storm damage and structure.",
+              "url": "https://treeservicemadison.net/tree-trimming-madison-wi/",
+              "image": "https://treeservicemadison.net/assets/img/services/tree-trimming.jpg",
+              "areaServed": {
+                "@type": "City",
+                "name": "Madison, WI"
+              },
+              "provider": {
+                "@id": "https://treeservicemadison.net/#business"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Stump Grinding",
+              "serviceType": "Stump Grinding",
+              "description": "Grinding stumps below grade with Diggers Hotline utility locating and cleanup.",
+              "url": "https://treeservicemadison.net/stump-grinding-madison-wi/",
+              "image": "https://treeservicemadison.net/assets/img/services/stump-grinding.jpg",
+              "areaServed": {
+                "@type": "City",
+                "name": "Madison, WI"
+              },
+              "provider": {
+                "@id": "https://treeservicemadison.net/#business"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Stump Removal",
+              "serviceType": "Stump Removal",
+              "description": "Full removal of stumps and main roots ahead of construction or replanting.",
+              "url": "https://treeservicemadison.net/stump-removal-madison-wi/",
+              "image": "https://treeservicemadison.net/assets/img/services/stump-removal.jpg",
+              "areaServed": {
+                "@type": "City",
+                "name": "Madison, WI"
+              },
+              "provider": {
+                "@id": "https://treeservicemadison.net/#business"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Emergency Tree Service",
+              "serviceType": "Emergency Tree Service",
+              "description": "Emergency removal of fallen and hazardous trees after storms, documented for insurance.",
+              "url": "https://treeservicemadison.net/emergency-tree-service-madison-wi/",
+              "image": "https://treeservicemadison.net/assets/img/services/emergency-tree-service.jpg",
+              "areaServed": {
+                "@type": "City",
+                "name": "Madison, WI"
+              },
+              "provider": {
+                "@id": "https://treeservicemadison.net/#business"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://treeservicemadison.net/#quincy-carroll",
+      "name": "Quincy Carroll",
+      "jobTitle": "Founder",
+      "image": "https://treeservicemadison.net/assets/img/quincy-carroll.jpg",
+      "worksFor": {
+        "@id": "https://treeservicemadison.net/#business"
+      },
+      "url": "https://treeservicemadison.net/about/"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://treeservicemadison.net/#primaryimage",
+      "url": "https://treeservicemadison.net/assets/img/hero/tree-service-madison-1200.jpg",
+      "contentUrl": "https://treeservicemadison.net/assets/img/hero/tree-service-madison-1200.jpg",
+      "width": 1200,
+      "height": 1000,
+      "caption": "Tree worker in a bucket truck cutting a limb with a chainsaw"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://treeservicemadison.net/#website",
+      "url": "https://treeservicemadison.net/",
+      "name": "Tree Service Madison",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://treeservicemadison.net/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://treeservicemadison.net/#webpage",
+      "url": "https://treeservicemadison.net/",
+      "name": "Tree Service Madison WI: Removal, Trimming, Stump Grinding",
+      "description": "Tree service in Madison, WI: tree removal, trimming, stump grinding and emergency storm work in Dane County. Free estimates. (608) 571-1326.",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://treeservicemadison.net/#website"
+      },
+      "about": {
+        "@id": "https://treeservicemadison.net/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://treeservicemadison.net/#primaryimage"
+      },
+      "dateModified": "2026-09-18"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://treeservicemadison.net/#faq",
+      "isPartOf": {
+        "@id": "https://treeservicemadison.net/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do I need a permit to remove a tree in Madison?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not for most trees in your own yard. You do need a free City permit to work on any oak between April 1 and October 15, and you can’t touch terrace trees between the sidewalk and the street, because those belong to the City. We check all three before quoting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When can oak trees be pruned in Madison?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "From October 16 through March 31 without a permit. From April 1 to October 15 a City ordinance requires a free Urban Forestry permit for any oak work, because fresh cuts attract the beetles that spread oak wilt. Storm-damaged oaks can be permitted on an emergency basis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who takes care of the tree between my sidewalk and the street?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The City of Madison. Terrace trees are public, and Urban Forestry prunes and removes them. Report a problem at 608-266-4816. Private crews, ours included, can’t work on a terrace tree without a City permit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does homeowners insurance cover a fallen tree?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Often, when the tree damages a covered structure such as your house, garage or fence; taking it off that structure is usually part of the claim. A tree that falls and hits nothing is generally not covered. Policies differ, so call your insurer before work starts. We document the damage for them."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A tree fell on my house. What do I do first?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Get everyone out of the damaged rooms and call 911 if anyone is hurt or wires are down. Then call your insurer and a tree service. Take photos before anything moves. We clear the tree from the structure first and bill it separately from yard debris."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Stump grinding or stump removal: which do I need?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Grinding suits lawns and planting beds: the wood is chipped 6 to 8 inches below grade and the roots decay in place. Full removal pulls everything, main roots included, and makes sense under new concrete, footings or fence lines. We quote both."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When do I need a certified arborist instead of a tree service?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For removals, pruning and routine tree care, hire an insured, experienced crew. ISA Certified Arborists are the right call for diagnosing tree disease, written risk assessments and treatment plans; verify the credential at treesaregood.org. Wisconsin has no state license for tree work."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you haul everything away?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, unless you want it. Brush is chipped, logs are hauled, and the lawn is raked and blown clean. Want wood chips for mulch, or firewood-length rounds stacked by the driveway? Say so at the estimate and we will write it into your quote."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>

@@ -1,0 +1,84 @@
+SERVICE AREA PAGES: SEO FIELDS (each value is one unwrapped line; counts in brackets)
+======================================================================================
+
+/tree-service-fitchburg-wi/
+--------------------------------------------------------------------------------------
+SEO title (53): Tree Service in Fitchburg, WI | Our Shop Is Next Door
+Meta description (141): Tree service in Fitchburg, WI from a shop on the city line: removal, trimming, stump grinding and storm work. Free estimates. (608) 571-1326.
+Canonical (57): https://treeservicemadison.net/tree-service-fitchburg-wi/
+Slug: /tree-service-fitchburg-wi/
+H1 (29): Tree Service in Fitchburg, WI
+OG title (52): Tree Service in Fitchburg, WI | Tree Service Madison
+OG description (97): Tree removal, trimming, stump work and storm response in Fitchburg, from a shop on the city line.
+OG image: https://treeservicemadison.net/assets/img/areas/fitchburg-og.jpg (1200x630)
+Schema: Service (with the five services), HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/tree-service-verona-wi/
+--------------------------------------------------------------------------------------
+SEO title (55): Tree Service in Verona, WI | Removal, Trimming & Stumps
+Meta description (144): Tree service in Verona, WI: tree removal, trimming, stump grinding and storm work for Hometown USA, a short drive from our shop. (608) 571-1326.
+Canonical (54): https://treeservicemadison.net/tree-service-verona-wi/
+Slug: /tree-service-verona-wi/
+H1 (26): Tree Service in Verona, WI
+OG title (49): Tree Service in Verona, WI | Tree Service Madison
+OG description (109): Tree removal, trimming, stump work and storm response in Verona, a short drive from our shop on the Beltline.
+OG image: https://treeservicemadison.net/assets/img/areas/verona-og.jpg (1200x630)
+Schema: Service (with the five services), HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/tree-service-middleton-wi/
+--------------------------------------------------------------------------------------
+SEO title (58): Tree Service in Middleton, WI | Removal, Trimming & Stumps
+Meta description (134): Tree service in Middleton, WI: tree removal, trimming, stump grinding and storm work from downtown to Pheasant Branch. (608) 571-1326.
+Canonical (57): https://treeservicemadison.net/tree-service-middleton-wi/
+Slug: /tree-service-middleton-wi/
+H1 (29): Tree Service in Middleton, WI
+OG title (52): Tree Service in Middleton, WI | Tree Service Madison
+OG description (101): Tree removal, trimming, stump work and storm response in Middleton, from downtown to Pheasant Branch.
+OG image: https://treeservicemadison.net/assets/img/areas/middleton-og.jpg (1200x630)
+Schema: Service (with the five services), HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/tree-service-monona-wi/
+--------------------------------------------------------------------------------------
+SEO title (55): Tree Service in Monona, WI | Lakeshore & Tight-Lot Work
+Meta description (138): Tree service in Monona, WI: removals on tight lakeshore lots, pruning for Frost Woods oaks, stump grinding and storm work. (608) 571-1326.
+Canonical (54): https://treeservicemadison.net/tree-service-monona-wi/
+Slug: /tree-service-monona-wi/
+H1 (26): Tree Service in Monona, WI
+OG title (49): Tree Service in Monona, WI | Tree Service Madison
+OG description (98): Tree removal, pruning, stump work and storm response in Monona, from Frost Woods to the lakeshore.
+OG image: https://treeservicemadison.net/assets/img/areas/monona-og.jpg (1200x630)
+Schema: Service (with the five services), HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/tree-service-mcfarland-wi/
+--------------------------------------------------------------------------------------
+SEO title (58): Tree Service in McFarland, WI | Removal, Trimming & Stumps
+Meta description (141): Tree service in McFarland, WI: tree removal, trimming, stump grinding and storm work from the village center to Lake Waubesa. (608) 571-1326.
+Canonical (57): https://treeservicemadison.net/tree-service-mcfarland-wi/
+Slug: /tree-service-mcfarland-wi/
+H1 (29): Tree Service in McFarland, WI
+OG title (52): Tree Service in McFarland, WI | Tree Service Madison
+OG description (108): Tree removal, trimming, stump work and storm response in McFarland, from the village center to Lake Waubesa.
+OG image: https://treeservicemadison.net/assets/img/areas/mcfarland-og.jpg (1200x630)
+Schema: Service (with the five services), HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/tree-service-sun-prairie-wi/
+--------------------------------------------------------------------------------------
+SEO title (59): Tree Service in Sun Prairie, WI | Removal, Trimming, Stumps
+Meta description (141): Tree service in Sun Prairie, WI: tree removal, trimming, stump grinding and storm work, from Main Street to Smith's Crossing. (608) 571-1326.
+Canonical (59): https://treeservicemadison.net/tree-service-sun-prairie-wi/
+Slug: /tree-service-sun-prairie-wi/
+H1 (31): Tree Service in Sun Prairie, WI
+OG title (54): Tree Service in Sun Prairie, WI | Tree Service Madison
+OG description (108): Tree removal, trimming, stump work and storm response in Sun Prairie, from Main Street to the new east side.
+OG image: https://treeservicemadison.net/assets/img/areas/sun-prairie-og.jpg (1200x630)
+Schema: Service (with the five services), HomeAndConstructionBusiness, WebSite, WebPage, BreadcrumbList (3 levels), FAQPage (6 questions)
+
+/service-areas/
+--------------------------------------------------------------------------------------
+SEO title (57): Service Areas | Tree Service in Madison & Dane County, WI
+Meta description (138): Tree service areas: Madison, Fitchburg, Verona, Middleton, Monona, McFarland, Sun Prairie and the rest of Dane County, WI. (608) 571-1326.
+Canonical (45): https://treeservicemadison.net/service-areas/
+Slug: /service-areas/
+H1 (45): Tree Service Areas in Madison and Dane County
+OG title (41): Tree Service Areas | Tree Service Madison
+Schema: CollectionPage, ItemList (6 communities), HomeAndConstructionBusiness, WebSite, BreadcrumbList, FAQPage (4 questions)

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leads | Tree Service Madison</title>
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#12291D">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/css/site.css?v=20260919">
+<link rel="stylesheet" href="/assets/css/admin.css?v=20260919">
+</head>
+<body class="adm">
+<header class="adm-bar">
+  <a href="/" class="adm-brand"><img src="/assets/img/logo-reversed.svg" alt="Tree Service Madison" width="159" height="40"></a>
+  <p class="adm-title">Leads</p>
+  <button type="button" class="btn btn--ghost btn--sm" id="signout" hidden>Sign out</button>
+</header>
+
+<main class="adm-main">
+  <noscript><p class="adm-msg adm-msg--error">The leads dashboard needs JavaScript switched on.</p></noscript>
+
+  <form class="adm-login" id="login" hidden>
+    <h1 class="h3">Sign in to see your leads</h1>
+    <p class="muted">Use the ADMIN_PASSWORD you set in Vercel.</p>
+    <label for="pw">Password</label>
+    <input id="pw" type="password" autocomplete="current-password" required>
+    <button class="btn btn--saw" type="submit">Sign in</button>
+    <p class="adm-msg adm-msg--error" id="login-msg" role="alert" hidden></p>
+  </form>
+
+  <section id="board" hidden aria-label="Leads">
+    <div class="adm-stats" id="stats"></div>
+    <div class="adm-tools">
+      <div class="adm-field adm-field--grow"><label for="q">Search</label><input id="q" type="search" placeholder="Name, phone, address, details"></div>
+      <div class="adm-field"><label for="f-status">Status</label><select id="f-status"><option value="">All</option></select></div>
+      <div class="adm-field"><label for="f-service">Service</label><select id="f-service"><option value="">All</option></select></div>
+      <button type="button" class="btn btn--pine btn--sm" id="refresh">Refresh</button>
+      <button type="button" class="btn btn--line btn--sm" id="csv">Export CSV</button>
+    </div>
+    <p class="adm-msg" id="board-msg" role="status" hidden></p>
+    <div id="list" class="adm-list"></div>
+  </section>
+</main>
+<script src="/assets/js/admin.js?v=20260919" defer></script>
+</body>
+</html>

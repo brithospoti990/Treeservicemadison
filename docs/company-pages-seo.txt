@@ -1,0 +1,74 @@
+COMPANY PAGES: SEO FIELDS (each value is one unwrapped line; counts in brackets)
+======================================================================================
+
+/about/
+--------------------------------------------------------------------------------------
+SEO title (52): About Tree Service Madison | Quincy Carroll, Founder
+Meta description (138): Meet Tree Service Madison, a local tree service founded by Quincy Carroll in Madison, WI. How we work, where we are, and what we won't do.
+Canonical (37): https://treeservicemadison.net/about/
+Slug: /about/
+H1 (26): About Tree Service Madison
+OG title (26): About Tree Service Madison
+OG description (91): A local tree service founded by Quincy Carroll, with a shop on the Beltline in Madison, WI.
+OG image: https://treeservicemadison.net/assets/img/og-image.jpg (1200x630)
+Schema: AboutPage, Person (Quincy Carroll), HomeAndConstructionBusiness, WebSite, BreadcrumbList, FAQPage (4 questions)
+
+/faq/
+--------------------------------------------------------------------------------------
+SEO title (55): Tree Service FAQ for Madison, WI | Tree Service Madison
+Meta description (137): Tree service questions Madison, WI homeowners ask most, answered: estimates, removal, pruning, stumps, storms, permits and terrace trees.
+Canonical (35): https://treeservicemadison.net/faq/
+Slug: /faq/
+H1 (32): Tree Service Questions & Answers
+OG title (55): Tree Service Questions & Answers | Tree Service Madison
+OG description (98): Straight answers about estimates, removal, pruning, stumps, storm damage and Madison's tree rules.
+OG image: https://treeservicemadison.net/assets/img/og-image.jpg (1200x630)
+Schema: FAQPage (29 questions), HomeAndConstructionBusiness, WebSite, BreadcrumbList
+
+/contact/
+--------------------------------------------------------------------------------------
+SEO title (45): Contact Tree Service Madison | (608) 571-1326
+Meta description (143): Contact Tree Service Madison: call (608) 571-1326, request a free written estimate, or find our shop at 4269 W Beltline Hwy, Madison, WI 53711.
+Canonical (39): https://treeservicemadison.net/contact/
+Slug: /contact/
+H1 (28): Contact Tree Service Madison
+OG title (28): Contact Tree Service Madison
+OG description (103): Call (608) 571-1326, request a free written estimate, or find the shop at 4269 W Beltline Hwy, Madison.
+OG image: https://treeservicemadison.net/assets/img/og-image.jpg (1200x630)
+Schema: ContactPage, HomeAndConstructionBusiness (with contactPoint and hasMap), WebSite, BreadcrumbList
+
+/privacy-policy/
+--------------------------------------------------------------------------------------
+SEO title (37): Privacy Policy | Tree Service Madison
+Meta description (125): What treeservicemadison.net collects when you request an estimate, why, who sees it, and how to have it corrected or deleted.
+Canonical (46): https://treeservicemadison.net/privacy-policy/
+Slug: /privacy-policy/
+H1 (14): Privacy Policy
+OG title (37): Privacy Policy | Tree Service Madison
+OG description (125): What treeservicemadison.net collects when you request an estimate, why, who sees it, and how to have it corrected or deleted.
+OG image: https://treeservicemadison.net/assets/img/og-image.jpg (1200x630)
+Schema: WebPage, HomeAndConstructionBusiness, WebSite, BreadcrumbList
+
+/terms/
+--------------------------------------------------------------------------------------
+SEO title (35): Terms of Use | Tree Service Madison
+Meta description (132): The terms for using treeservicemadison.net: what the site is, what it is not, and how estimates, guides and emergencies are handled.
+Canonical (37): https://treeservicemadison.net/terms/
+Slug: /terms/
+H1 (12): Terms of Use
+OG title (35): Terms of Use | Tree Service Madison
+OG description (132): The terms for using treeservicemadison.net: what the site is, what it is not, and how estimates, guides and emergencies are handled.
+OG image: https://treeservicemadison.net/assets/img/og-image.jpg (1200x630)
+Schema: WebPage, HomeAndConstructionBusiness, WebSite, BreadcrumbList
+
+/sitemap/
+--------------------------------------------------------------------------------------
+SEO title (30): Sitemap | Tree Service Madison
+Meta description (106): Every page on treeservicemadison.net in one place: tree services, service areas, guides and company pages.
+Canonical (39): https://treeservicemadison.net/sitemap/
+Slug: /sitemap/
+H1 (7): Sitemap
+OG title (30): Sitemap | Tree Service Madison
+OG description (106): Every page on treeservicemadison.net in one place: tree services, service areas, guides and company pages.
+OG image: https://treeservicemadison.net/assets/img/og-image.jpg (1200x630)
+Schema: CollectionPage, HomeAndConstructionBusiness, WebSite, BreadcrumbList
